@@ -66,7 +66,7 @@ print(confusion)
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+![the Logistic Regression Model to Predict the Placement Status of Student]()
 
 
 ## Result:
