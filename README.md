@@ -66,7 +66,13 @@ print(confusion)
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student]()
+####
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/srivarshan123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/data%20head.jpeg)
+#### 
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/srivarshan123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/datainfo.jpeg)
+####
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/srivarshan123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/data.jpeg)
+![the Logistic Regression Model to Predict the Placement Status of Student](https://github.com/srivarshan123/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/blob/main/percision.jpeg)
 
 
 ## Result:
